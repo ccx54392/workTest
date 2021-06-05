@@ -20,7 +20,9 @@ execute mvn test from command line
 https://github.com/ccx54392/workTest/tree/main/src/test/java
 
 Driver initialization https://github.com/ccx54392/workTest/blob/main/src/test/java/MyDriver.java
+
 App actions https://github.com/ccx54392/workTest/blob/main/src/test/java/AppActions.java
+
 TestNG Test https://github.com/ccx54392/workTest/blob/main/src/test/java/AppTest.java
 
 # Video
