@@ -1,10 +1,17 @@
 # Requirements:
+
 Appium Server https://appium.io/
+
 Android Studio command line tools https://developer.android.com/studio
+
 %ANDROID_HOME% system environment variable
+
 device connected throgh usb cable (setup only works with my phone, it does not work with other phones)
+
 Java JDK 1.8
+
 Maven
+
 
 # Run project
 execute mvn test from command line
