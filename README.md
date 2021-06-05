@@ -14,7 +14,7 @@ Maven
 
 
 # Run project
-execute mvn test from command line
+execute 'mvn test' from command line
 
 # Source code
 https://github.com/ccx54392/workTest/tree/main/src/test/java
